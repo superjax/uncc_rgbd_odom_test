@@ -1,0 +1,3 @@
+[submodule "lib/uncc_rgbd_odom"]
+	path = lib/uncc_rgbd_odom
+	url = https://github.com/uncc-visionlab/uncc_rgbd_odom.git
